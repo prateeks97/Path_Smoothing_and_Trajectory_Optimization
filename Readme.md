@@ -31,8 +31,3 @@ The below results show the comparison of path charateristics of the base path ag
 
 <img src = "https://github.com/shorane/Path-smoothing-and-Optimization/blob/master/results/Optimization-of-RRT-algorithm%20(2).jpg" height="400"/>
 
-To view more relevant projects: 
-- visit my portfolio website [here](https://horaneshubham.wixsite.com/autonomous)
-- view my other repositories on [GitHub](https://github.com/shorane)
-- connect with me via [LinkedIn](https://www.linkedin.com/in/shubham-horane/)
-- email me at shorane@clemson.edu
